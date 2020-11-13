@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Double\" />
+    <Folder Include="Single\" />
+    <Folder Include="Double\Vector\" />
+    <Folder Include="Single\Vector\" />
+    <Folder Include="Double\Linear\" />
+    <Folder Include="Integer\" />
+    <Folder Include="Integer\Linear\" />
+    <Folder Include="Single\Linear\" />
+  </ItemGroup>
+</Project>
